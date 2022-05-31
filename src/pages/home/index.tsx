@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="p-2">
       <div className="underline">
-        <Link to={ROUTES.login}>Login</Link>
+        <Link to={ROUTES.login}>Logi3</Link>
       </div>
       <div className="underline">
         <Link to={ROUTES.protected}>Protected</Link>
